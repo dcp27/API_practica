@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebListas_Practica", "WebListas_Practica.csproj", "{06BEEB28-495C-4A39-811B-4D3A03249615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BEEB28-495C-4A39-811B-4D3A03249615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BEEB28-495C-4A39-811B-4D3A03249615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BEEB28-495C-4A39-811B-4D3A03249615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BEEB28-495C-4A39-811B-4D3A03249615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8EF584D-0D7A-42A0-9A7B-B9647A45B075}
+	EndGlobalSection
+EndGlobal

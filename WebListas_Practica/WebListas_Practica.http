@@ -1,0 +1,6 @@
+@WebListas_Practica_HostAddress = http://localhost:5025
+
+GET {{WebListas_Practica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
